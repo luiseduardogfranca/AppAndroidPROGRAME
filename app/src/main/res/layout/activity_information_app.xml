@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical"
+    tools:context="programe.projeto.com.programe.InformationApp">
+
+    <!--Logo app-->
+    <ImageView
+        android:src="@drawable/programe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ScrollView
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--Titulo1-->
+            <TextView
+                android:paddingTop="10dp"
+                android:paddingLeft="15dp"
+                android:text="@string/title1_information"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--Texto1 sobre o App-->
+            <TextView
+                android:paddingTop="40dp"
+                android:text="@string/text1_information"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--Titulo2-->
+            <TextView
+                android:paddingTop="30dp"
+                android:paddingLeft="15dp"
+                android:text="@string/title2_information"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--Texto2 sobre o App-->
+            <TextView
+                android:paddingTop="40dp"
+                android:text="@string/text2_information"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--Titulo3-->
+            <TextView
+                android:paddingTop="30dp"
+                android:paddingLeft="15dp"
+                android:text="@string/title3_information"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <!--Texto3 sobre o App-->
+            <TextView
+                android:paddingTop="40dp"
+                android:text="@string/text3_information"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <!--Texto4 sobre o App-->
+            <TextView
+                android:paddingLeft="25dp"
+                android:paddingTop="25dp"
+                android:text="@string/text4_information"
+                android:textStyle="bold"
+
+                android:textSize="13dp"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

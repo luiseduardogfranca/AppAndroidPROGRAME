@@ -1,3 +1,60 @@
 <resources>
+    <!--String Titulo-->
     <string name="app_name">PROGRAME</string>
+
+    <!--String botão MainActivity INICIO-->
+    <string name="buttom_inici0">Início</string>
+
+    <!--String botão MainActivity SOBRE-->
+    <string name="buttom_sobre">Sobre</string>
+
+    <!--String EditText NOME-->
+    <string name="fornece_nome">Nome: </string>
+
+    <!--String EditTexte EMAILp-->
+    <string name="fornece_email">Email: </string>
+
+    <!--String Titulo NameUser CADASTRO-->
+    <string name="info_usuario">Cadastro</string>
+
+    <!--String botão NameUser CONFIRMAR-->
+    <string name="confirmar_nameUser">Confirmar</string>
+
+    <!--String subtitulo Option-->
+    <string name="title_option">Está quase lá ...</string>
+
+    <!--String subitutlo2 Option-->
+    <string name="subtitle_option">Escolha e mãos à obra!</string>
+
+    <!--String botão Option ALGORITIMO-->
+    <string name="option1">Algoritimo</string>
+
+    <!--String botão Option PYTHON-->
+    <string name="option2">Python</string>
+
+    <!--String texto1 Information-->
+    <string name="text1_information"> PROGRAME é um aplicativo que foi desenvolvido com o objetivo de facilitar o aprendizado
+    com ralação à linguagem Python desde o uso correto das estrutura até implementações em código
+        e também visando a abordagen de assuntos relacionados à algoritimo.</string>
+
+    <!--String titulo 1 Information-->
+    <string name="title1_information">Sobre ...</string>
+
+    <!--String titulo 2 Information-->
+    <string name="title2_information">Objetivo ...</string>
+
+    <!--String texto2 Information-->
+    <string name="text2_information"> O objetivo que o aplicativo PROGRAME busca alcançar é a disseminação de conhecimentos 
+        relacionados ao mundo das tecnologias, que são fundamentais atualmente, aonde aqueles que não procuram se manter
+        atualizados ficam para trás principalmente no mercado de trabalho que atualmente é limitado em demasiadas comunidades,
+        sejam elas carentes ou não. </string>
+
+    <!--String titulo 3 Information-->
+    <string name="title3_information">Carregado de...</string>
+
+    <!--String texto3 Information-->
+    <string name="text3_information"> O aplicativo PROGRAME está carregado de conhecimento, sendo disponibilizado matériais básicos
+    como : </string>
+    <string name="text4_information">- Contéudos sobre algoritimo; \n\n- Exercícios de multipla escolha; \n\n- Exercícios para resolver com Python; \n\n- Assuntos demasidos sobre Python;</string>
+
 </resources>
