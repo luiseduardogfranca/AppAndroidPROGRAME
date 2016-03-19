@@ -2,12 +2,19 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="programe.projeto.com.programe">
 
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <!-- Inicio do app -->
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -15,16 +22,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".NameUser"
-            android:parentActivityName=".MainActivity" />
+
+        <!-- Activity relacionada a escolha do curso -->
         <activity
             android:name=".Option"
+            android:label="@string/title_option"
             android:parentActivityName=".MainActivity" />
+
+        <!-- Activity relacionada à informações sobre o App -->
         <activity
             android:name=".InformationApp"
-            android:parentActivityName=".MainActivity">
+            android:label="@string/buttom_sobre"
+            android:parentActivityName=".MainActivity" />
+
+        <!-- Activity's relacionadas ao curso Python -->
+        <activity
+            android:name=".InformationPython"
+            android:label="Python"
+            android:parentActivityName=".Option" />
+
+        <activity
+            android:name=".ContentPython"
+            android:label="Python"
+            android:parentActivityName=".Option">
+
         </activity>
+
+        <!-- Activity's relacionadas ao curso Algoritimo -->
+        <activity
+            android:name=".InformationAlgoritimo"
+            android:label="@string/title_algoritimo"
+            android:parentActivityName=".Option" />
+
     </application>
 
 </manifest>

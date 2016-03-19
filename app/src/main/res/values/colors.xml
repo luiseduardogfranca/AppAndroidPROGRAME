@@ -2,8 +2,14 @@
 <resources>
     <color name="colorPrimary">#039be5</color>
     <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="blue">#4fc3f7</color>
+    <color name="blue_dark">#0277bd</color>
+    <color name="verde_escuro">#4caf50</color>
+    <color name="verde_claro">#8bc34a</color>
+    <color name="amarelo">#ffff00</color>
+    <color name="vermelho">#e53935</color>
+    <color name="cinza">#e0e0e0</color>
+    <color name="transparent">#00000000</color>
 </resources>

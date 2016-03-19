@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Botão start para o "curso"
     public void buttomStart(View view){
-        Intent nameUser = new Intent(this, NameUser.class);
+        Intent nameUser = new Intent(this, Option.class);
         startActivity(nameUser);
     }
 

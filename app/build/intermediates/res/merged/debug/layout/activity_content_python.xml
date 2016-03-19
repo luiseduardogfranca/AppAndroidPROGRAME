@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:id="@+id/view_content"
+    tools:context="programe.projeto.com.programe.ContentPython">
+
+    <!--Menu-->
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:onClick="buttomIntro"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="@drawable/action_buttom"
+                android:text="@string/button_intro"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <Button
+                android:onClick="buttomPrint"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="@drawable/action_buttom"
+                android:text="@string/button_saida"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <Button
+                android:onClick="buttomCondicao"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="@drawable/action_buttom"
+                android:text="@string/button_condicao"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <Button
+                android:onClick="buttomRepeticao"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="@drawable/action_buttom"
+                android:text="@string/button_repeticao"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <Button
+                android:onClick="buttomLista"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="@drawable/action_buttom"
+                android:text="@string/button_lista"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+    <RelativeLayout
+        android:layout_margin="5dp"
+        android:background="@color/vermelho"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <TextView
+            android:textColor="@color/white"
+            android:paddingTop="15dp"
+            android:paddingLeft="15dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:id="@+id/title_content_python"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_below="@id/title_content_python"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/cinza"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:textSize="15sp"
+            android:textStyle="italic"
+            android:id="@+id/subtitle_content_python"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"/>
+
+
+        <Button
+            android:id="@+id/buttom_praticar"
+            android:background="@drawable/action_buttom2"
+            android:text="Praticar!"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"/>
+
+    </RelativeLayout>
+
+    <!--Conteúdo-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6">
+
+
+        <LinearLayout
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+
+            <TextView
+                android:paddingTop="35dp"
+                android:paddingLeft="15dp"
+                android:textSize="15sp"
+                android:id="@+id/explicacao1_content_python"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:id="@+id/figura1_content_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:paddingTop="35dp"
+                android:paddingLeft="15dp"
+                android:textSize="15sp"
+                android:id="@+id/explicacao2_content_python"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:id="@+id/figura2_content_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:paddingTop="35dp"
+                android:paddingLeft="15dp"
+                android:textSize="15sp"
+                android:id="@+id/explicacao3_content_python"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:id="@+id/figura3_content_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:paddingTop="35dp"
+                android:paddingLeft="15dp"
+                android:textSize="15sp"
+                android:id="@+id/explicacao4_content_python"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:id="@+id/figura4_content_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:paddingTop="35dp"
+                android:paddingLeft="15dp"
+                android:textSize="15sp"
+                android:id="@+id/explicacao5_content_python"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
+                android:id="@+id/figura5_content_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

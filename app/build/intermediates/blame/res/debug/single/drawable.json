@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/saida_entrada.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/saida_entrada.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/conversao.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/conversao.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/computador.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/computador.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/marcador_e_virgula.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/marcador_e_virgula.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/elif.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/elif.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/atribuicao.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/atribuicao.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/action_buttom2.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/action_buttom2.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/action_buttom.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/action_buttom.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/barra_n.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/barra_n.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/sintaxe_if_else.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/sintaxe_if_else.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/python200x200.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/python200x200.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/if_else_intro.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/if_else_intro.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/aritmetico.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/aritmetico.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/variavel.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/variavel.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/comparacao.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/comparacao.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/end.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/end.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/logico.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/logico.png"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/programe.jpeg",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/programe.jpeg"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/fundo.jpeg",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/fundo.jpeg"
+    },
+    {
+        "merged": "/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/res/merged/debug/drawable/algoritimo.png",
+        "source": "/home/luis/Documentos/AppProjeto/programe/app/src/main/res/drawable/algoritimo.png"
+    }
+]

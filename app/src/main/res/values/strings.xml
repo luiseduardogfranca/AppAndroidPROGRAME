@@ -1,60 +1,145 @@
 <resources>
-    <!--String Titulo-->
-    <string name="app_name">PROGRAME</string>
 
-    <!--String botão MainActivity INICIO-->
-    <string name="buttom_inici0">Início</string>
+    <!-- Informação desenvolvedor-->
+    <string name="info_developer">Desenvolvido por: Luís Eduardo G. F.</string>
 
-    <!--String botão MainActivity SOBRE-->
-    <string name="buttom_sobre">Sobre</string>
-
-    <!--String EditText NOME-->
-    <string name="fornece_nome">Nome: </string>
-
-    <!--String EditTexte EMAILp-->
-    <string name="fornece_email">Email: </string>
-
-    <!--String Titulo NameUser CADASTRO-->
-    <string name="info_usuario">Cadastro</string>
-
-    <!--String botão NameUser CONFIRMAR-->
-    <string name="confirmar_nameUser">Confirmar</string>
-
-    <!--String subtitulo Option-->
-    <string name="title_option">Está quase lá ...</string>
-
-    <!--String subitutlo2 Option-->
-    <string name="subtitle_option">Escolha e mãos à obra!</string>
-
-    <!--String botão Option ALGORITIMO-->
+    <!--String para activity Option-->
+    <string name="welcome">Seja Bem-Vindo</string>
+    <string name="information_option">Você está quase lá ... </string>
+    <string name="subtitle_option">Escolha e mãos à obra! </string>
     <string name="option1">Algoritimo</string>
-
-    <!--String botão Option PYTHON-->
     <string name="option2">Python</string>
 
-    <!--String texto1 Information-->
+
+    <!--String para activity Sobre -->
     <string name="text1_information"> PROGRAME é um aplicativo que foi desenvolvido com o objetivo de facilitar o aprendizado
-    com ralação à linguagem Python desde o uso correto das estrutura até implementações em código
+    com ralação à linguagem Python desde o uso correto das estruturas até implementações em código
         e também visando a abordagen de assuntos relacionados à algoritimo.</string>
-
-    <!--String titulo 1 Information-->
     <string name="title1_information">Sobre ...</string>
-
-    <!--String titulo 2 Information-->
     <string name="title2_information">Objetivo ...</string>
-
-    <!--String texto2 Information-->
-    <string name="text2_information"> O objetivo que o aplicativo PROGRAME busca alcançar é a disseminação de conhecimentos 
+    <string name="text2_information"> O objetivo que o aplicativo PROGRAME busca alcançar é a disseminação de conhecimentos
         relacionados ao mundo das tecnologias, que são fundamentais atualmente, aonde aqueles que não procuram se manter
         atualizados ficam para trás principalmente no mercado de trabalho que atualmente é limitado em demasiadas comunidades,
         sejam elas carentes ou não. </string>
-
-    <!--String titulo 3 Information-->
     <string name="title3_information">Carregado de...</string>
-
-    <!--String texto3 Information-->
-    <string name="text3_information"> O aplicativo PROGRAME está carregado de conhecimento, sendo disponibilizado matériais básicos
-    como : </string>
+    <string name="text3_information"> O aplicativo PROGRAME está carregado de conhecimento, sendo disponibilizado matériais básicoscomo : </string>
     <string name="text4_information">- Contéudos sobre algoritimo; \n\n- Exercícios de multipla escolha; \n\n- Exercícios para resolver com Python; \n\n- Assuntos demasidos sobre Python;</string>
+
+
+    <!--Informação sobre Python-->
+    <string name="sobre_python">Python é uma linguagem de programação que pode ser utilizada de forma estruturada ou de forma orientada à objetos. É uma linguagem de tipagem dinâmica, sendo considerada de
+    alto nível. Ao longo dos tempos Python vem ganhando cada vez mais mercado por se algo de fácil compreensão e pela adptação a qualquer problema imposto sem precisar quebrar  a cabeça com a sintaxe do código.</string>
+    <string name="sobre_python2">Vamos começar?</string>
+    <string name="sobre_python3">- Introdução; \n- Saída (PRINT); \n- Estrutura de Condição; \n- Estrutura de Repetição; \n- Estrutura de Listas;</string>
+    <string name="buttom_prox">Próximo</string>
+
+
+    <!--String para botões do curso Python-->
+    <string name="button_intro">Introdução</string>
+    <string name="button_saida">Entrada e Saída</string>
+    <string name="button_condicao">E. de Condição</string>
+    <string name="button_repeticao">E. de Repetição</string>
+    <string name="button_lista">Lista</string>
+
+    <!--Subtitles curso Python -->
+    <string name="subtitle_intro">Variáveis, tipos, e operadores.</string>
+    <string name="subtitle_saida">Print, input, e comandos.</string>
+    <string name="subtitle_condicao">If, Else e Elif.</string>
+    <string name="subtitle_repeticao">For e While</string>
+    <string name="subtitle_lista">Acesso e manipulação</string>
+
+    <!--String Introdução Python-->
+    <string name="explicacao_variavel_e_tipo">Uma variável é um objeto (uma posição, frequentemente localizada na memória)
+        capaz de reter e representar um valor ou expressão. Variáveis são associadas a "nomes", chamados identificadores, que são essenciais para
+        futuros acessos aos valores nelas armazenados. Cada variável definida tende à receber seu tipo,podendo ser String (texto), Float (ponto flutuante),
+        Int (valor inteiro) e Boolean (Verdadeiro ou Falso). Analise os exemplos abaixo onde é possível perceber a definição das variáveis e a tipagem de cada uma.</string>
+
+    <string name="explicacao_operadores_logicos">Outra coisa importante que devemos ter conhecimento são os operadores lógicos,
+        tais operadores vão permitir que exista por exemplo uma obrigatoriedade para com os condições (que todas retornem true),
+        ou até mesmo uma inversão do valor retornado dentro da condição (usando o NOT)\n\n Um exemplo que pode ser citado é:
+        João só irá passear se ele fizer a atividade e (AND) lavar os pratos. Note que o uso do {E} na frase deu uma ideia
+        de que ele só iria passearcaso as duas condições impostas (lavar os pratos e fazer a atividade) fossem dadas como verdadeiras.
+        \n\n Observe os operadores lógicos que você poderá utilizar no seu código: </string>
+
+    <string name="explicacao_operadores_aritmeticos">Assim como você é capaz de realizar calcúlos na matemática, Python lhe permite fazer o mesmo de uma forma mais
+        divertida, onde você apenas se encarrega da implementação por meio do cógido e o Python faz o serviço pesado, processando e retornando o resultado. Observe os operadores
+        aritméticos listados abaixo que você podera usar no seu fúturo código!</string>
+
+    <string name="explicacao_operador_atribuicao">Supondo que você já aprendeu um pouco sobre o que é variável, vamos da uma olhada no que usamos para atribuir um valor
+        à uma variável. Usamos o sinal de (=) para atribuir algo dentro de uma variável, observe o sinal usado:</string>
+
+    <string name="explicacao_operadores_comparacao">Em Python também é permitido fazer comparações entre valores, e assim tornando o código em algo mais
+        interessante, vale lembrar que todas as comparações feitas tem como retorno valores do tipo boolean, ou seja, True ou False, então pode-se dizer que
+        o interpretador de código vai analisar a condição e dizer se é algo verdadeiro ou não. Analise os operadores de comparação abaixo:</string>
+
+
+    <!--String Entrada e Saída Python-->
+    <string name="entrada_saida">Você deve está se perguntando, como é que se faz para pedir algo ao usuário ou informar? Não se preocupe,
+        vamos aprender um pouco sobre entrada e saída de dados agora! \n\nEm Python é usado o comando PRINT para passar alguma saída ao usuário,
+        e o comando INPUT como meio de entrada de dados que irá permiti que você faça a manipulação do valor dentro do cógido.
+        \n\nVeja a sintaxe dos comandos no código:</string>
+
+    <string name="print_marcador">Como vimos acima, o PRINT é o meio que utilizamos para fornecer uma saída ao usuário, mas que tal aprimorarmos  essa
+        saída utilizando variáveis? Calma, não é algo complicado, basta definirmos as variáveis que queremos imprimir na tela e assim utilizá-las ela no
+        print! \n\nExistem dois modos de imprimir informação na tela com variáveis: Com o uso de virgulas, separando a string das variáveis e com o uso de
+        marcadores! \n\nO uso do print com vírgulas é algo mais simples, que é indicado quando tem poucas variáveis e assim você não precisa criar algo muito
+        extenso. Já o uso do  print com marcadores é indicado quando se quer simplificar as coisas (na implementação), e permite por exemplo a definição de
+        quantas casas decimais de um valor float será mostrado para o usuário! \n\n Os marcadores (%) são responsáveis por assumir temporiaramente o lugar de
+        uma variavel sendo nescessário especificar o tipo da mesma. \n\nVejamos os exemplos:
+    </string>
+    <string name="uso_end">Mas é possível que uma menssagem seguinte a outra continue na mesma linha mesmo sendo codificada em partes separadas ?
+        Sim, é possível graças ao comando END. O END permite definir que a próxima linha que será mostrada na tela venha na mesma linha que a
+        mensagem anterior! \n\nVejamos um exemplo: </string>
+    <string name="uso_barraN">Mas é possível também a quebra de uma mensagem em várias linhas? Sim, é possivel!
+        Podemos usar o (\n) para que a menssagem seja passada na próxima linha mesmo sendo em um único print.
+        Isto é indicado para economizar nas linhas de código e assim não precisar criar várias impressões!
+        \n\nVeja o exemplo:</string>
+    <string name="conversao_type">Voltanto ao assunto de entrada de dados no programa... Foi colocado como modo de pedir algum valor
+        o uso do comando INPUT, mas tem um problema de fácil solução que é o fato do input receber os valores no formato STRING, logo
+        se eu peço por exemplo um preço ao usuário, não vou poder fazer algum cálculo com o valor pois ele está no formato de texto.
+        Então como resolver esse problema ? Simples, podemos usar a conversão de dados, ou seja, mudar o tipo de dado que uma variável carrega!
+        \n\nObserve o exemplo abaixo e veja o quão simple é a implementação de uma conversão em Python.</string>
+
+    <!--Strutura de condição Python-->
+    <string name="uso_condicao">Supondo que você já sabe algo sobre operadores de comparação (caso não, de uma olhada na introdução), vamos agora
+        da uma estudada nas estrutura de condição! \n\nO Python nos permite desenvolver uma estrutura de condição com os comandos IF, ELSE e ELIF.
+        Vamos enteder o como funciona esses comandos  ?\n\n Todas condições retornam valores boolean (True ou False) quando analisadas pelo interpretador,
+        e tais valores vão servir como a chave para um bloco de condição ser ativo ou não. \n\nUma analogia que pode ser utilizada é: Maria só irá escrever
+        mais uma folha, se (IF) a letra estiver desorganizada, senão (ELSE) o trabalho está finalizado. \n\n Com essa analogia podemos ver de uma forma mais
+        clara o uso dos comandos que são utilizados em uma estrutura de condição, mas e no código? \n\nObserve essa implementação: </string>
+
+    <string name="uso_if_else">Com o exemplo acima podemos ver o quão simples é a implementação do de uma estrutura de condição, agora iremos aprender um pouco
+        sobre o comando IF e ELSE. O IF tem a função de executar algum bloco de intruções, caso o valor de retorno da condição seje True, ou seja, o IF nescessita
+        que a condição retorne uma valor verdadeiro para que o mesmo seja executado pelo interpretador. Já o comando ELSE não nescessita de uma condição para que seja
+        executado, pois ele trabalha com o retorno vindo do IF, ou seja, caso o retorno seje False (não irá entra no IF) o ELSE vai ser ativado e por sua vez executa
+        todas as suas intruções. \n\nVeja a sintaxe dos comandos abaixo:</string>
+
+    <string name="uso_elif">Já vimos um pouco sobre o IF e o ELSE, mas quando vai ser preciso utilizar o ELIF? \n\nO comando ELIF é utilizado quando a estrutura
+        exige condições bem precisas e assim podemos utilizar para que não haja repetição do comando IF (que levaria a uma desorganização do seu código).
+        \n\nVamos agora da uma aprimorada na analogia utilizada acima, atribuindo um sistema de notas para saber se Maria passou de ano \n\nAnalogia: Maria
+        terá média 10 se (IF) o trabalho estiver organizado e (AND) e for entrege no prazo; (Uso do ELIF) Terá média 5 caso esteja desorganizado
+        e (AND) for entregue em dia; Terá média 0 se não atender a nenhuma das condições antes impostas (ELSE). \n\nVeja este exemplo de implementação:</string>
+
+    <string name="uso_elif2">Ao codificar o nosso sistema de notas percebemos que o código dependeu de mais uma estrutura de condição, e então foi utilizado o comando
+        ELIF para que não houvesse uma repetição do IF. Vale lembrar que o uso do ELIF só pode ser feito com existência de um IF no determinado bloco do código. </string>
+
+
+    <!--Estrutura de repetição Python -->
+    <string name="repeticao_intro">Assim como podemos repetir ações no dia-a-dia, o Python permite que você repita indefinida (ou definida) vezes um bloco do seu código
+        através do uso de estruturas de repetição. Python fornece dois comandos para que possamos fazer algum bloco repetir </string>
+
+    <!--Títulos label -->
+    <string name="title_option">Escolha e aprenda!</string>
+    <string name="app_name">PROGRAME</string>
+    <string name="title_algoritimo">Algortimo</string>
+    <!--Label e buttom-->
+    <string name="buttom_inicio">Início</string>
+    <string name="buttom_sobre">Sobre</string>
+    <string name="exercicios">Exercícios</string>
+    <string name="title_activity_login">Entrar</string>
+
+
+
+
 
 </resources>

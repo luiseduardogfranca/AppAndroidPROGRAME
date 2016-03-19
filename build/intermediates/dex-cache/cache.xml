@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_8927b4e061700ca57600e7c20bc78091db318601.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_cdca17b14fbe5c65f5029b114c60a30ac61bed22.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_85aa08d87d02db7e40d5f40e28f5eef69f98065e.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_a32986de4f1fb172ad2849d0c3985fb25da090e3.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_b5595a8f066a34b2a99f58b5871486a7972f4716.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_33688f01bc911cd7abb940bc3a6a81d44f8dc5d3.jar" />
+    </item>
+    <item
+        jar="/home/luis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_3a02cf0bf2be64025dc7defe1455fe6b1a195eb1.jar" />
+    </item>
+    <item
+        jar="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/luis/Documentos/AppProjeto/programe/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_7aea6fe4255f86376b0c1d980b50406c502c71b5.jar" />
+    </item>
+
+</items>

@@ -1,5 +1,6 @@
 package programe.projeto.com.programe;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,14 +14,8 @@ public class Option extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_option);
-        setNameInView();
     }
 
-    //Método de modificação do text na view
-    public void setNameInView(){
-        TextView view = (TextView) findViewById(R.id.view_welcome);
-
-    }
 
     /*
     Métodos botões
@@ -28,10 +23,14 @@ public class Option extends AppCompatActivity {
 
     public void selectPython(View view){
 
+        Intent buttomPython = new Intent(this, InformationPython.class);
+        startActivity(buttomPython);
     }
 
     public void selectAlgorithm(View view){
 
+        Intent buttomAlgoritimo = new Intent(this, InformationAlgoritimo.class);
+        startActivity(buttomAlgoritimo);
     }
 
 
